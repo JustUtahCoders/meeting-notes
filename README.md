@@ -1,6 +1,20 @@
 # meeting-notes
 Notes from group meetings.
 
+## 3/9/2019
+Joel and Tucker met with Leonel Nieto to further discuss the CRM for Comunidades Unidas. Joel showed him progress on deploying the CRM to AWS via Elastic Beanstalk.
+Joel also showed Leonel how to boot up the local environment and create database migrations for it. Next step is to meet again with Luis, Leonel, and Vicky to get
+Wix access so that we can create a subdomain for the CRM on cuutah.org. Additionally we'll need a CU account on AWS for billing.
+
+## 3/5/2019
+Joel met with Leonel Nieto to show him a proof of concept demo of what we could build for Comunidades Unidas. We decided to use AWS so that we could use the $2,000
+credit that CU has for being a nonprofit.
+
+## 2/27/2019
+Joel met with Luis Garza and Vicky Fuentes at Comunidades Unidas. It was decided that we would help build a CRM for Comunidades Unidas, starting with a client intake form.
+The purpose of the CRM will be to organize information and to be able to report on what services Comunidades is providing to donors. Next step is to meet with Leonel Nieto,
+who is a board member at CU who is fairly technical and has already started work on a database schema.
+
 ## 2/24/2019
 
 Joel, Tucker, and I met yesterday and then Joel and I met again today to work on Docket Reminder stuff and a couple other things. Here's an update on those meetings.
