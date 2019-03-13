@@ -1,6 +1,12 @@
 # meeting-notes
 Notes from group meetings.
 
+## 3/12/2019
+Joel met with Luis, Vicky, and Leonel at Comunidades Unidas for an hour and a half. They gave us access to their AWS and Wix accounts and we discussed the project further. Was a very exciting 
+meeting, we are narrowing in on scope, documenting bugs, and getting closer to getting this thing usable. We also discussed authentication and roles/permissions.
+
+Additionally, we had our second real user sign up today on utahexpungements.org! The flyers seem to be working.
+
 ## 3/9/2019
 Joel and Tucker met with Leonel Nieto to further discuss the CRM for Comunidades Unidas. Joel showed him progress on deploying the CRM to AWS via Elastic Beanstalk.
 Joel also showed Leonel how to boot up the local environment and create database migrations for it. Next step is to meet again with Luis, Leonel, and Vicky to get
