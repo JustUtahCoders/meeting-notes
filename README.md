@@ -1,6 +1,10 @@
 # meeting-notes
 Notes from group meetings.
 
+## 3/16/2019
+Leah and Tucker met at Nostalgia to talk about content/videos/help guides. We determined a good place to start would be a high-level video helping people read and understand their BCI. We wrote a first draft for that video.
+We also talked about providing transcripts / "blog post" like articles with each video.
+
 ## 3/12/2019
 Joel met with Luis, Vicky, and Leonel at Comunidades Unidas for an hour and a half. They gave us access to their AWS and Wix accounts and we discussed the project further. Was a very exciting 
 meeting, we are narrowing in on scope, documenting bugs, and getting closer to getting this thing usable. We also discussed authentication and roles/permissions.
