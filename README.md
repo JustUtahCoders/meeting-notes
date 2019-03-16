@@ -2,7 +2,7 @@
 Notes from group meetings.
 
 ## 3/16/2019
-Leah and Tucker met at Nostalgia to talk about content/videos/help guides. We determined a good place to start would be a high-level video helping people read and understand their BCI. We wrote a first draft for that video.
+Leah and Tucker met at Nostalgia to talk about content/videos/help guides. We determined a good place to start would be a high-level video helping people read and understand their BCI Criminal History printout. We wrote a first draft for that video.
 We also talked about providing transcripts / "blog post" like articles with each video.
 
 ## 3/12/2019
