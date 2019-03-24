@@ -1,6 +1,11 @@
 # meeting-notes
 Notes from group meetings.
 
+## 3/24/2019
+Joel and Leonel met at Nostalgia to get Leonel's local development environment up and running and working for comunidades unidas. Also to teach him how to make backend API endpoints with Express.
+The site https://database.cuutah.org is up and running, deployed via Travis to AWS Elastic Beanstalk! We also scheduled a meeting with Luis and Vicky for this week to discuss what we will
+initially ship with.
+
 ## 3/16/2019
 Leah and Tucker met at Nostalgia to talk about content/videos/help guides. We determined a good place to start would be a high-level video helping people read and understand their BCI Criminal History printout. We wrote a first draft for that video.
 We also talked about providing transcripts / "blog post" like articles with each video.
